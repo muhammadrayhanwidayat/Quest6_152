@@ -1,3 +1,8 @@
 package com.example.project07.models
 
-data class Siswa()
+data class Siswa(
+    val nama : String = "",
+
+
+)
+
