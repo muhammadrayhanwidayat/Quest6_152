@@ -1,6 +1,7 @@
 package com.example.project07.viewmodel
 
 import androidx.lifecycle.ViewModel
+import com.example.project07.models.Siswa
 
 
 class SiswaViewModel : ViewModel() {
