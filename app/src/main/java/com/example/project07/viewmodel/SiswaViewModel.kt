@@ -3,6 +3,8 @@ package com.example.project07.viewmodel
 import androidx.lifecycle.ViewModel
 import com.example.project07.models.Siswa
 import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.asStateFlow
 
 
 class SiswaViewModel : ViewModel() {
